@@ -1,0 +1,21 @@
+membranes:
+  CPA5-LD:
+    A_value: 7.6e-7
+    B_value: 3.5e-8
+    area_m2: 37.0
+    default_dP_element: 0.2
+    default_osm_coef: 7.8e-6
+
+  ESPA2-LD:
+    A_value: 9.2e-7
+    B_value: 4.0e-8
+    area_m2: 37.2
+    default_dP_element: 0.15
+    default_osm_coef: 7.8e-6
+
+  ESPA2-MAX:
+    A_value: 1.1e-6
+    B_value: 4.0e-8
+    area_m2: 40.0
+    default_dP_element: 0.15
+    default_osm_coef: 7.8e-6
